@@ -1,7 +1,7 @@
 # Poker-game
 This is the project in which I represent how to effectively write projects in OOP in Python. I created several classes:
--Card 
+-Card
 -Hand
 -PokerHand which extends class Hand
--Deck
--Judge
+-Deck '\n'
+-Judge 
